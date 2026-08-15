@@ -1,0 +1,10 @@
+{
+  "name": "@mkaliezz/dsh-repo-map",
+  "version": "0.1.0",
+  "type": "module",
+  "private": false,
+  "description": "DSH plugin: dsh-repo-map",
+  "license": "MIT",
+  "scripts": {"test": "node --test"},
+  "keywords": ["dsh-plugin", "deepseek-harness"]
+}
